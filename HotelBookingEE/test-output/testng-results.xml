@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74041" started-at="2019-06-17T00:54:43Z" finished-at="2019-06-17T00:55:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74041" started-at="2019-06-17T00:54:43Z" finished-at="2019-06-17T00:55:57Z">
+      <class name="Tests.CoreTests">
+        <test-method status="PASS" signature="Testcase1_1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.CoreTests@9629756]" name="Testcase1_1" duration-ms="21307" started-at="2019-06-17T00:54:43Z" data-provider="Data" finished-at="2019-06-17T00:55:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2019-06-17]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2019-06-18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1_1 -->
+        <test-method status="PASS" signature="Testcase1_1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.CoreTests@9629756]" name="Testcase1_1" duration-ms="23745" started-at="2019-06-17T00:55:04Z" data-provider="Data" finished-at="2019-06-17T00:55:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2020-06-17]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2021-06-18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1_1 -->
+        <test-method status="PASS" signature="Testcase1_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.CoreTests@9629756]" name="Testcase1_2" duration-ms="14565" started-at="2019-06-17T00:55:28Z" data-provider="Data" finished-at="2019-06-17T00:55:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2019-06-17]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2019-06-18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1_2 -->
+        <test-method status="PASS" signature="Testcase1_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.CoreTests@9629756]" name="Testcase1_2" duration-ms="14391" started-at="2019-06-17T00:55:42Z" data-provider="Data" finished-at="2019-06-17T00:55:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2020-06-17]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2021-06-18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1_2 -->
+      </class> <!-- Tests.CoreTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
